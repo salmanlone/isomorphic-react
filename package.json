@@ -2,7 +2,7 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^7.1.5",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
@@ -11,11 +11,16 @@
     "express": "^4.17.1",
     "express-yields": "^1.1.2",
     "fs-extra": "^8.1.0",
-    "webpack": "^4.41.5"
+    "webpack": "^4.41.5",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-hot-middleware": "^2.25.0"
   },
   "name": "isomorphic-react",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/salmanlone/isomorphic-react.git",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
 }
