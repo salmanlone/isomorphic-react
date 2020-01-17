@@ -1,0 +1,642 @@
+{
+  "items": [
+    {
+      "tags": ["python", "glob"],
+      "owner": {
+        "reputation": 3,
+        "user_id": 12722599,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a61c670347a0584ee64f7e4602deaaf8?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Chanon Udomtaweedech",
+        "link": "https://stackoverflow.com/users/12722599/chanon-udomtaweedech"
+      },
+      "is_answered": true,
+      "view_count": 28,
+      "accepted_answer_id": 59764488,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1579165321,
+      "creation_date": 1579157493,
+      "last_edit_date": 1579157726,
+      "question_id": 59764364,
+      "link": "https://stackoverflow.com/questions/59764364/glob-python-sorted-list-of-file",
+      "title": "glob- python sorted list of file"
+    },
+    {
+      "tags": ["git", "merge", "directory", "checkout", "remote-repository"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12672491,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mC3F4TJ-u195bKwCbftWHjWWGO3NtjJ_rMMi16M=k-s128=k-s128",
+        "display_name": "Mich Lo",
+        "link": "https://stackoverflow.com/users/12672491/mich-lo"
+      },
+      "is_answered": false,
+      "view_count": 26,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165321,
+      "creation_date": 1579074195,
+      "last_edit_date": 1579165321,
+      "question_id": 59746950,
+      "link": "https://stackoverflow.com/questions/59746950/git-merge-the-specific-folder-from-other-repository",
+      "title": "Git merge the specific folder from other repository"
+    },
+    {
+      "tags": ["javascript", "typescript", "axios"],
+      "owner": {
+        "reputation": 1098,
+        "user_id": 1600992,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/f8DYd.jpg?s=128&g=1",
+        "display_name": "matchish",
+        "link": "https://stackoverflow.com/users/1600992/matchish"
+      },
+      "is_answered": false,
+      "view_count": 1,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165320,
+      "creation_date": 1579165320,
+      "question_id": 59766086,
+      "link": "https://stackoverflow.com/questions/59766086/how-to-extend-axios-to-send-request-with-propfind-method-typescript",
+      "title": "How to extend axios to send request with PROPFIND method (Typescript)"
+    },
+    {
+      "tags": ["c#", "wpf", "dependency-properties"],
+      "owner": {
+        "reputation": 271,
+        "user_id": 2878715,
+        "user_type": "registered",
+        "accept_rate": 20,
+        "profile_image": "https://www.gravatar.com/avatar/459ad41f6578f2e026ce36d736477505?s=128&d=identicon&r=PG&f=1",
+        "display_name": "James",
+        "link": "https://stackoverflow.com/users/2878715/james"
+      },
+      "is_answered": true,
+      "view_count": 2262,
+      "answer_count": 4,
+      "score": 3,
+      "last_activity_date": 1579165319,
+      "creation_date": 1382601604,
+      "last_edit_date": 1382647404,
+      "question_id": 19560215,
+      "link": "https://stackoverflow.com/questions/19560215/base-class-dependencyproperty-value-change-in-wpf",
+      "title": "Base class DependencyProperty value change in WPF"
+    },
+    {
+      "tags": ["mysql"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 5535890,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9516030e6c51e8d6c23a32547625ab88?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Nithin Jay",
+        "link": "https://stackoverflow.com/users/5535890/nithin-jay"
+      },
+      "is_answered": true,
+      "view_count": 23,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1579165317,
+      "creation_date": 1579157557,
+      "last_edit_date": 1579165242,
+      "question_id": 59764380,
+      "link": "https://stackoverflow.com/questions/59764380/how-to-find-free-slot-from-available-slot-and-booked-slot",
+      "title": "how to find free slot from available slot and booked slot"
+    },
+    {
+      "tags": ["python"],
+      "owner": {
+        "reputation": 49,
+        "user_id": 10753849,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/875f3e742b9ec22411fa6466fa9fd745?s=128&d=identicon&r=PG",
+        "display_name": "Llewellyn Hattingh",
+        "link": "https://stackoverflow.com/users/10753849/llewellyn-hattingh"
+      },
+      "is_answered": false,
+      "view_count": 34,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1579165317,
+      "creation_date": 1579164488,
+      "last_edit_date": 1579165317,
+      "question_id": 59765867,
+      "link": "https://stackoverflow.com/questions/59765867/extracting-certain-position-within",
+      "title": "Extracting certain position within {}"
+    },
+    {
+      "tags": ["ssl", "nginx", "nginx-reverse-proxy", "pass-through"],
+      "owner": {
+        "reputation": 11,
+        "user_id": 12666641,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/849272a8406ee7810a2c07d89652f7a9?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Haydar",
+        "link": "https://stackoverflow.com/users/12666641/haydar"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1579165309,
+      "creation_date": 1578384810,
+      "question_id": 59624481,
+      "link": "https://stackoverflow.com/questions/59624481/reverse-proxy-with-nginx-ssl-passthrough",
+      "title": "reverse proxy with nginx ssl passthrough"
+    },
+    {
+      "tags": ["excel", "vba"],
+      "owner": {
+        "reputation": 147,
+        "user_id": 10639239,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/875a1144623e974f785366d0e177ca82?s=128&d=identicon&r=PG&f=1",
+        "display_name": "G.M",
+        "link": "https://stackoverflow.com/users/10639239/g-m"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165307,
+      "creation_date": 1579165079,
+      "last_edit_date": 1579165307,
+      "question_id": 59766017,
+      "link": "https://stackoverflow.com/questions/59766017/setting-a-constant-independent-of-executed-module",
+      "title": "Setting a Constant independent of executed Module"
+    },
+    {
+      "tags": ["android"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12722767,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d9d322208d0eb02c94b99ff80fbf0a95?s=128&d=identicon&r=PG&f=1",
+        "display_name": "gah000",
+        "link": "https://stackoverflow.com/users/12722767/gah000"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165305,
+      "creation_date": 1579165305,
+      "question_id": 59766083,
+      "link": "https://stackoverflow.com/questions/59766083/androidstudio-3-5-3-pick-an-element-displays-in-dutch",
+      "title": "AndroidStudio (3.5.3) Pick_An_Element displays in Dutch"
+    },
+    {
+      "tags": ["python", "data-science", "gensim", "lda"],
+      "owner": {
+        "reputation": 49,
+        "user_id": 8732457,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/81325e11ab51004855030845c272dc42?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Soumya C",
+        "link": "https://stackoverflow.com/users/8732457/soumya-c"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165305,
+      "creation_date": 1579164804,
+      "last_edit_date": 1579165305,
+      "question_id": 59765941,
+      "link": "https://stackoverflow.com/questions/59765941/lda-topic-modelling-topics-predicted-from-huge-corpus-make-no-sense",
+      "title": "LDA Topic Modelling : Topics predicted from huge corpus make no sense"
+    },
+    {
+      "tags": ["python", "sockets", "urllib"],
+      "owner": {
+        "reputation": 35,
+        "user_id": 11065448,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/90db6faf5abc830604a71003a5deef9e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "damini chopra",
+        "link": "https://stackoverflow.com/users/11065448/damini-chopra"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165303,
+      "creation_date": 1579165303,
+      "question_id": 59766082,
+      "link": "https://stackoverflow.com/questions/59766082/connection-timeout-error-in-urllib3-in-python",
+      "title": "connection timeout error in urllib3 in python"
+    },
+    {
+      "tags": ["java"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12723206,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f5a83dcd4605de8cfb8685d4bb6a1464?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Marvin K. Langlois",
+        "link": "https://stackoverflow.com/users/12723206/marvin-k-langlois"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165302,
+      "creation_date": 1579164781,
+      "last_edit_date": 1579165302,
+      "question_id": 59765933,
+      "link": "https://stackoverflow.com/questions/59765933/how-print-data-from-a-csv-after-a-split-using-java-filereader",
+      "title": "How print data from a CSV after a split using Java fileReader?"
+    },
+    {
+      "tags": ["npm", "create-react-app", "npm-start"],
+      "owner": {
+        "reputation": 9,
+        "user_id": 2189552,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/72e029b7b7c310cedf3eeed4486384e4?s=128&d=identicon&r=PG",
+        "display_name": "user2189552",
+        "link": "https://stackoverflow.com/users/2189552/user2189552"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165301,
+      "creation_date": 1579165301,
+      "question_id": 59766081,
+      "link": "https://stackoverflow.com/questions/59766081/create-react-app-how-do-i-run-npm-start-in-debug-mode",
+      "title": "create-react-app: how do i run npm start in debug mode?"
+    },
+    {
+      "tags": ["javascript", "file"],
+      "owner": {
+        "reputation": 313,
+        "user_id": 4064987,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/6f93c3f49e4d2e39f7233747059ab9f1?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Praveer Kumar",
+        "link": "https://stackoverflow.com/users/4064987/praveer-kumar"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165298,
+      "creation_date": 1579165298,
+      "question_id": 59766079,
+      "link": "https://stackoverflow.com/questions/59766079/how-do-i-parse-a-url-into-hostname-and-path-in-javascript",
+      "title": "How do I parse a URL into hostname and path in javascript"
+    },
+    {
+      "tags": ["closures", "swiftui", "observableobject"],
+      "owner": {
+        "reputation": 10047,
+        "user_id": 294661,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/5a30bc36a26af18b7d9b95db19d81286?s=128&d=identicon&r=PG",
+        "display_name": "Peter Warbo",
+        "link": "https://stackoverflow.com/users/294661/peter-warbo"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165298,
+      "creation_date": 1579165298,
+      "question_id": 59766078,
+      "link": "https://stackoverflow.com/questions/59766078/closure-is-not-updated-when-enum-is-changed-in-observableobject",
+      "title": "Closure is not updated when enum is changed in ObservableObject"
+    },
+    {
+      "tags": ["windows", "batch-file", "directory", "subdirectory"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12723033,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mC04idItkl3ifQmmv7-Ize9kk-rp--qggaQQMZPOw=k-s128",
+        "display_name": "Alkenix",
+        "link": "https://stackoverflow.com/users/12723033/alkenix"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165283,
+      "creation_date": 1579165283,
+      "question_id": 59766077,
+      "link": "https://stackoverflow.com/questions/59766077/how-to-delete-a-folder-content-except-list-of-sub-sub-folders-and-its-contents",
+      "title": "How to delete a folder content except list of sub/sub folders and its contents?"
+    },
+    {
+      "tags": ["asp.net", "filtering", "telerik-grid"],
+      "owner": {
+        "reputation": 2691,
+        "user_id": 231317,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/a4d4ef00756fa4b1a246d90037fe926a?s=128&d=identicon&r=PG",
+        "display_name": "karthik k",
+        "link": "https://stackoverflow.com/users/231317/karthik-k"
+      },
+      "is_answered": false,
+      "view_count": 7794,
+      "answer_count": 3,
+      "score": 5,
+      "last_activity_date": 1579165280,
+      "creation_date": 1291379372,
+      "last_edit_date": 1291380641,
+      "question_id": 4345525,
+      "link": "https://stackoverflow.com/questions/4345525/customize-the-filter-option-for-a-date-colmn-telerik-grid",
+      "title": "customize the filter option for a date colmn telerik grid"
+    },
+    {
+      "tags": ["oracle", "imp"],
+      "owner": {
+        "reputation": 249,
+        "user_id": 601484,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/466bb78271e1187186808e3f61b1141d?s=128&d=identicon&r=PG",
+        "display_name": "Ara",
+        "link": "https://stackoverflow.com/users/601484/ara"
+      },
+      "is_answered": false,
+      "view_count": 8223,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1579165280,
+      "creation_date": 1310946399,
+      "last_edit_date": 1339680804,
+      "question_id": 6727539,
+      "link": "https://stackoverflow.com/questions/6727539/oracle-exp-dump-file-import-issue-imp-00009-abnormal-end-of-export-file",
+      "title": "Oracle exp dump file import issue IMP-00009: abnormal end of export file"
+    },
+    {
+      "tags": ["sql"],
+      "owner": {
+        "reputation": 49,
+        "user_id": 1956975,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fd1018057718c6a5146c04114ac462b2?s=128&d=identicon&r=PG",
+        "display_name": "Zannie155",
+        "link": "https://stackoverflow.com/users/1956975/zannie155"
+      },
+      "is_answered": false,
+      "view_count": 7986,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1579165280,
+      "creation_date": 1360733314,
+      "last_edit_date": 1360778064,
+      "question_id": 14846957,
+      "link": "https://stackoverflow.com/questions/14846957/copy-huge-amount-of-sql-data-into-a-file",
+      "title": "Copy huge amount of SQL data into a file"
+    },
+    {
+      "tags": ["python", "multiprocessing", "shared"],
+      "owner": {
+        "reputation": 41,
+        "user_id": 5575231,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c8e0d2d11750e72b4f0792ad03ffc17a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Vedant7",
+        "link": "https://stackoverflow.com/users/5575231/vedant7"
+      },
+      "is_answered": false,
+      "view_count": 9349,
+      "answer_count": 2,
+      "score": 4,
+      "last_activity_date": 1579165280,
+      "creation_date": 1472038630,
+      "last_edit_date": 1472038901,
+      "question_id": 39122270,
+      "link": "https://stackoverflow.com/questions/39122270/multiprocessing-shared-array",
+      "title": "Multiprocessing - Shared Array"
+    },
+    {
+      "tags": ["javascript", "reactjs", "jest", "react-testing-library"],
+      "owner": {
+        "reputation": 2297,
+        "user_id": 2417295,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4e2ea5e2365de383bbf688e29a0675e4?s=128&d=identicon&r=PG",
+        "display_name": "Amit Chauhan",
+        "link": "https://stackoverflow.com/users/2417295/amit-chauhan"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165278,
+      "creation_date": 1579165278,
+      "question_id": 59766076,
+      "link": "https://stackoverflow.com/questions/59766076/how-to-query-button-based-on-aria-selected-and-role-tab",
+      "title": "How to query button based on aria-selected and role=&#39;tab&#39;"
+    },
+    {
+      "tags": ["xml", "xslt"],
+      "owner": {
+        "reputation": 11,
+        "user_id": 12722852,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-gv3cMrAwqLw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reJSZyqTg8joAG3n8sOjDI0e7qGEw/photo.jpg?sz=128",
+        "display_name": "MFS",
+        "link": "https://stackoverflow.com/users/12722852/mfs"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1579165275,
+      "creation_date": 1579160600,
+      "question_id": 59764977,
+      "link": "https://stackoverflow.com/questions/59764977/xslt-combining-attributes-in-different-groups",
+      "title": "xslt combining attributes in different groups"
+    },
+    {
+      "tags": ["react-native", "react-native-webview"],
+      "owner": {
+        "reputation": 163,
+        "user_id": 5201883,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/937970339587922/picture?type=large",
+        "display_name": "Mahendra Thotakura",
+        "link": "https://stackoverflow.com/users/5201883/mahendra-thotakura"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1579165275,
+      "creation_date": 1579165130,
+      "last_edit_date": 1579165275,
+      "question_id": 59766033,
+      "link": "https://stackoverflow.com/questions/59766033/react-native-webview-is-not-displaying-in-android",
+      "title": "react-native-webview is not displaying in Android"
+    },
+    {
+      "tags": ["firebase", "google-cloud-firestore", "firebase-security"],
+      "owner": {
+        "reputation": 1935,
+        "user_id": 1713519,
+        "user_type": "registered",
+        "accept_rate": 99,
+        "profile_image": "https://i.stack.imgur.com/ED8ir.jpg?s=128&g=1",
+        "display_name": "Ruan",
+        "link": "https://stackoverflow.com/users/1713519/ruan"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1579165272,
+      "creation_date": 1579165202,
+      "question_id": 59766055,
+      "link": "https://stackoverflow.com/questions/59766055/firebase-allow-only-the-cloud-functions-access-to-read-and-write",
+      "title": "Firebase Allow only the cloud functions access to read and write"
+    },
+    {
+      "tags": [
+        "sql",
+        "amazon-web-services",
+        "timestamp",
+        "presto",
+        "amazon-athena"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 12583794,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9466afdc4c623ee3f175d915e1c48f0a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "nkol",
+        "link": "https://stackoverflow.com/users/12583794/nkol"
+      },
+      "is_answered": true,
+      "view_count": 75,
+      "accepted_answer_id": 59457537,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1579165272,
+      "creation_date": 1577091423,
+      "last_edit_date": 1579165272,
+      "question_id": 59452465,
+      "link": "https://stackoverflow.com/questions/59452465/athena-query-to-find-how-many-users-from-one-month-are-in-other-months",
+      "title": "Athena query to find how many users from one month are in other months"
+    },
+    {
+      "tags": ["javascript", "html", "timepicker"],
+      "owner": {
+        "reputation": 11,
+        "user_id": 8565178,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/ee775804ca4061cb60b61036a6cc9149?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Sanjay",
+        "link": "https://stackoverflow.com/users/8565178/sanjay"
+      },
+      "is_answered": true,
+      "view_count": 941,
+      "answer_count": 4,
+      "score": -4,
+      "last_activity_date": 1579165272,
+      "creation_date": 1517417168,
+      "last_edit_date": 1517728638,
+      "question_id": 48547245,
+      "link": "https://stackoverflow.com/questions/48547245/need-timepicker-in-24-hr-format-to-be-added-inline",
+      "title": "need timepicker in 24 hr format to be added inline"
+    },
+    {
+      "tags": ["kdb"],
+      "owner": {
+        "reputation": 11,
+        "user_id": 12529331,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/Wxvg7.jpg?s=128&g=1",
+        "display_name": "Haiderali",
+        "link": "https://stackoverflow.com/users/12529331/haiderali"
+      },
+      "is_answered": true,
+      "view_count": 42,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1579165262,
+      "creation_date": 1579162350,
+      "last_edit_date": 1579163313,
+      "question_id": 59765368,
+      "link": "https://stackoverflow.com/questions/59765368/kdb-function-optimization",
+      "title": "KDB: Function optimization"
+    },
+    {
+      "tags": ["c#", "visual-studio", "using-directives"],
+      "owner": {
+        "reputation": 123,
+        "user_id": 10667898,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-3Df2Y_Qu3C8/AAAAAAAAAAI/AAAAAAAATWw/NWZSAj2OftE/photo.jpg?sz=128",
+        "display_name": "Mariano Valenzuela",
+        "link": "https://stackoverflow.com/users/10667898/mariano-valenzuela"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1579165259,
+      "creation_date": 1579151934,
+      "last_edit_date": 1579165259,
+      "question_id": 59763405,
+      "link": "https://stackoverflow.com/questions/59763405/set-using-namespaces-for-all-files-in-a-folder",
+      "title": "Set using namespaces for all files in a folder"
+    },
+    {
+      "tags": ["c++", "c", "unique-ptr"],
+      "owner": {
+        "reputation": 536,
+        "user_id": 3087555,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/fe453dd9d1b38e7fcc19dc5f71e3cc4a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "ZeppRock",
+        "link": "https://stackoverflow.com/users/3087555/zepprock"
+      },
+      "is_answered": true,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1579165257,
+      "creation_date": 1579164872,
+      "question_id": 59765957,
+      "link": "https://stackoverflow.com/questions/59765957/returning-a-unique-void-pointer-from-a-function",
+      "title": "Returning a unique void pointer from a function"
+    },
+    {
+      "tags": ["c++", "templates", "generics", "const", "constexpr"],
+      "owner": {
+        "reputation": 595,
+        "user_id": 7484210,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/Ghd9L.jpg?s=128&g=1",
+        "display_name": "0x400921FB54442D18",
+        "link": "https://stackoverflow.com/users/7484210/0x400921fb54442d18"
+      },
+      "is_answered": true,
+      "view_count": 68,
+      "accepted_answer_id": 56086136,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1579165252,
+      "creation_date": 1557532607,
+      "last_edit_date": 1557532970,
+      "question_id": 56086113,
+      "link": "https://stackoverflow.com/questions/56086113/infinite-recursion-of-constexpr-template-function",
+      "title": "Infinite recursion of constexpr template function"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 299
+}
